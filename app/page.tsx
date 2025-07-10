@@ -95,7 +95,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to my-dev-branch nextjs.org →
+          Go to my-dev-branch777 nextjs.org →
         </a>
       </footer>
     </div>
