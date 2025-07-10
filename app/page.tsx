@@ -95,7 +95,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to features....abc nextjs.org →
+          Go to features adawdwa....abc nextjs.org →
         </a>
       </footer>
     </div>
