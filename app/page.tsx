@@ -95,7 +95,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Not go to c1111 nextjs.org →
+          Not go to c1111222 nextjs.org →
         </a>
       </footer>
     </div>
